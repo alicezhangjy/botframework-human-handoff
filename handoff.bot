@@ -1,17 +1,17 @@
 {
-    "name": "handoff",
+    "name": "Bot",
     "description": "",
     "services": [
         {
             "type": "endpoint",
-            "appId": "",
-            "appPassword": "",
-            "endpoint": "http://localhost:3978/api/messages",
+            "appId": "Replace with your APP ID here,
+            "appPassword": "Replace with your APP Password here and use MSBot to encrypt this bot file",
+            "endpoint": "http://localhost:3978",
             "id": "1",
             "name": "development"
         }
     ],
-    "padlock": "",
+    "padlock": "WXtDvuqfMCcbSEDXwUcogg==!XFOc8QfoCVZQaUWEV4KL9zdfl1i2s3K+kDXj4RxHFBu5alYe4NA1wbWcJZkVEosO",
     "version": "2.0",
     "path": "C:\\Users\\v-thdurn\\Developer\\Node\\handoff\\handoff.bot",
     "overrides": null
